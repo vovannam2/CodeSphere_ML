@@ -1,0 +1,6 @@
+USER-PROBLEM MATRIX STATS
+==================================================
+Users: 5
+Problems: 4
+Interactions: 9
+Sparsity: 55.00%

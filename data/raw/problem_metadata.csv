@@ -1,0 +1,7 @@
+problem_id,title,level,time_limit_ms,memory_limit_mb,category_ids,tag_ids
+1,Two Sum,EASY,2000,256,1,"1,2,3"
+2,Sum,EASY,2000,256,1,"1,2,3"
+3,Chẵn lẻ,EASY,2000,256,3,1
+4,TỔNG CÁC CHỮ SỐ,EASY,2000,256,3,"1,2,3"
+5,PHẦN TỬ NHỎ HƠN HAI LÂN CẬN,EASY,2000,256,"2,4","1,5"
+6,Longest Palindromic Substring,EASY,2000,256,1,1

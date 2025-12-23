@@ -1,0 +1,22 @@
+# Thu vien can thiet cho Recommendation System
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# API Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Database connection
+mysql-connector-python==8.2.0
+python-dotenv==1.0.0
+
+# Utilities
+python-dateutil==2.8.2
+
+# OpenAI API (cho hybrid approach)
+requests==2.31.0
