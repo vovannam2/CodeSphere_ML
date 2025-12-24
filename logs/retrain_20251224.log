@@ -1,0 +1,15 @@
+2025-12-24 09:43:51,890 - INFO - ==================================================
+2025-12-24 09:43:51,890 - INFO - BAT DAU RETRAIN MODEL
+2025-12-24 09:43:51,890 - INFO - Thoi gian: 2025-12-24 09:43:51
+2025-12-24 09:43:51,890 - INFO - ==================================================
+2025-12-24 09:43:51,891 - INFO - Buoc 1: Export data tu database...
+2025-12-24 09:43:56,312 - INFO - Export data done
+2025-12-24 09:43:56,313 - INFO - Buoc 2: Tien xu ly du lieu...
+2025-12-24 09:43:58,874 - INFO - Preprocess done
+2025-12-24 09:43:58,893 - INFO - Da backup model cu: D:\HCMUTE_Nam4\TLCN\CodeSphere_ML\data/models/backups\recommendation_model_backup_20251224_094358.pkl
+2025-12-24 09:43:58,894 - INFO - Buoc 3: Train model moi...
+2025-12-24 09:44:07,337 - INFO - Train model done
+2025-12-24 09:44:07,338 - INFO - ==================================================
+2025-12-24 09:44:07,338 - INFO - RETRAIN HOAN TAT!
+2025-12-24 09:44:07,338 - INFO - ==================================================
+2025-12-24 09:44:07,338 - INFO - Luu y: Can restart Python API de load model moi
