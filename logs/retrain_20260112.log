@@ -1,0 +1,30 @@
+2026-01-12 04:57:05,488 - INFO - ==================================================
+2026-01-12 04:57:05,489 - INFO - BAT DAU RETRAIN MODEL
+2026-01-12 04:57:05,489 - INFO - Thoi gian: 2026-01-12 04:57:05
+2026-01-12 04:57:05,489 - INFO - ==================================================
+2026-01-12 04:57:05,489 - INFO - Buoc 1: Export data tu database...
+2026-01-12 09:00:03,727 - INFO - Export data done
+2026-01-12 09:00:03,727 - INFO - Buoc 2: Tien xu ly du lieu...
+2026-01-12 09:00:15,391 - INFO - Preprocess done
+2026-01-12 09:00:15,410 - INFO - Da backup model cu: D:\HCMUTE_Nam4\TLCN\CodeSphere_ML\data/models/backups\recommendation_model_backup_20260112_090015.pkl
+2026-01-12 09:00:15,410 - INFO - Buoc 3: Train model moi...
+2026-01-12 09:00:29,441 - INFO - Train model done
+2026-01-12 09:00:29,441 - INFO - ==================================================
+2026-01-12 09:00:29,441 - INFO - RETRAIN HOAN TAT!
+2026-01-12 09:00:29,441 - INFO - ==================================================
+2026-01-12 09:00:29,441 - INFO - Luu y: Can restart Python API de load model moi
+2026-01-12 11:22:21,407 - INFO - ==================================================
+2026-01-12 11:22:21,408 - INFO - BAT DAU RETRAIN MODEL
+2026-01-12 11:22:21,409 - INFO - Thoi gian: 2026-01-12 11:22:21
+2026-01-12 11:22:21,409 - INFO - ==================================================
+2026-01-12 11:22:21,409 - INFO - Buoc 1: Export data tu database...
+2026-01-12 11:22:25,979 - INFO - Export data done
+2026-01-12 11:22:25,979 - INFO - Buoc 2: Tien xu ly du lieu...
+2026-01-12 11:22:26,566 - INFO - Preprocess done
+2026-01-12 11:22:26,575 - INFO - Da backup model cu: D:\HCMUTE_Nam4\TLCN\CodeSphere_ML\data/models/backups\recommendation_model_backup_20260112_112226.pkl
+2026-01-12 11:22:26,575 - INFO - Buoc 3: Train model moi...
+2026-01-12 11:22:35,847 - INFO - Train model done
+2026-01-12 11:22:35,848 - INFO - ==================================================
+2026-01-12 11:22:35,848 - INFO - RETRAIN HOAN TAT!
+2026-01-12 11:22:35,848 - INFO - ==================================================
+2026-01-12 11:22:35,849 - INFO - Luu y: Can restart Python API de load model moi

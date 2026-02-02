@@ -2,6 +2,6 @@ problem_id,title,level,time_limit_ms,memory_limit_mb,category_ids,tag_ids
 1,Two Sum,EASY,2000,256,1,"1,2,3"
 2,Reverse Integer,EASY,2000,256,1,"1,2,3"
 3,Even or Odd,EASY,2000,256,3,1
-4,Sum of Digits,EASY,2000,256,3,"1,2,3"
+4,Sum of Digits,HARD,2000,256,3,"1,2,3"
 5,Add Two Numbers,EASY,2000,256,2,"1,5"
-6,Longest Palindromic Substring,MEDIUM,2000,256,1,1
+6,Longest Palindromic Substring,MEDIUM,2000,256,"1,6",1
